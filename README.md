@@ -1,5 +1,5 @@
 # ComputerVision
-This repository is my code for learning computer vision, using mainly OpenCV 4.2.0 and Python 3.6
+This repository is for learning computer vision, using mainly OpenCV 4.2.0 and Python 3.6
 
 Current functionality:
   - The source.py loads the fruit.jpg
