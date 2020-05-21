@@ -1,4 +1,4 @@
-# ComputerVision
+# computer_vision
 This repository is for learning computer vision, using mainly OpenCV 4.2.0 and Python 3.6
 
 Current functionality:
